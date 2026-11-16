@@ -1,0 +1,10 @@
+#虚拟环境
+.venv/
+venv/
+
+#python缓存
+__pycache__/
+*.pyc
+
+#临时文件
+*.log
